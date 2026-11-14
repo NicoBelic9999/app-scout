@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-14T12:05",
  "channels": [
   "HowToMen",
   "Sam Beckman",
@@ -202,19 +202,6 @@
    "cat_en": "Photos & Camera",
    "cat_he": "צילום ותמונות",
    "price": "iap"
-  },
-  {
-   "id": "tech-karan-czero",
-   "name": "CZero",
-   "en": "Cleans app caches, background processes and junk (Root or Shizuku).",
-   "he": "מנקה מטמון, תהליכי רקע וקבצי זבל (Root או Shizuku).",
-   "link": "https://github.com/Xocio/CZero/releases",
-   "channel": "Tech Karan",
-   "video": "https://www.youtube.com/watch?v=HgUjp136x3M",
-   "date": "2026-10-31",
-   "cat_en": "Tools",
-   "cat_he": "כלים",
-   "price": "github"
   },
   {
    "id": "tech-karan-entinygram",
