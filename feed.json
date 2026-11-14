@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:05",
+ "updated": "2026-11-14T12:20",
  "channels": [
   "HowToMen",
   "Sam Beckman",
@@ -85,19 +85,6 @@
    "cat_en": "Customization",
    "cat_he": "התאמה אישית",
    "price": "iap"
-  },
-  {
-   "id": "howtomen-hush",
-   "name": "Hush",
-   "en": "Mutes or skips ads in the free version of Spotify.",
-   "he": "משתיק או מדלג על פרסומות בגרסה החינמית של Spotify.",
-   "link": "https://github.com/coldMEW/Hush/releases",
-   "channel": "HowToMen",
-   "video": "https://www.youtube.com/watch?v=1E6cT2HkVMM&t=422s",
-   "date": "2026-11-01",
-   "cat_en": "Music",
-   "cat_he": "מוזיקה",
-   "price": "github"
   },
   {
    "id": "howtomen-kyng-keyboard",
@@ -269,19 +256,6 @@
    "price": "iap"
   },
   {
-   "id": "tech-karan-swiftsense",
-   "name": "SwiftSense",
-   "en": "Toolkit for tweaking Android system settings without root.",
-   "he": "ערכת כלים לשינוי הגדרות מערכת באנדרואיד בלי Root.",
-   "link": "https://github.com/itsmelissadev/SwiftSense/releases",
-   "channel": "Tech Karan",
-   "video": "https://www.youtube.com/watch?v=HgUjp136x3M",
-   "date": "2026-10-31",
-   "cat_en": "Tools",
-   "cat_he": "כלים",
-   "price": "github"
-  },
-  {
    "id": "matt-robb-candy-browser",
    "name": "Candy Browser",
    "en": "Web browser you control with gestures.",
@@ -319,6 +293,97 @@
    "cat_en": "Tools",
    "cat_he": "כלים",
    "price": "oss"
+  },
+  {
+   "id": "techtab-dynamic-edge-gestures",
+   "name": "Dynamic Edge Gestures",
+   "en": "Turns the screen edges and the notch area into gesture shortcuts and a pie menu.",
+   "he": "הופך את קצוות המסך ואזור החריץ לקיצורי מחוות ולתפריט עגול.",
+   "link": "https://play.google.com/store/apps/details?id=com.m.payra.gesture.control.app",
+   "channel": "TechTab",
+   "video": "https://www.youtube.com/watch?v=JHppy4er2BI&t=13s",
+   "date": "2026-11-10",
+   "cat_en": "Tools",
+   "cat_he": "כלים",
+   "price": ""
+  },
+  {
+   "id": "techtab-devpulse",
+   "name": "DevPulse",
+   "en": "Shows live hardware and performance data for your phone and runs built-in hardware tests.",
+   "he": "מציג נתוני חומרה וביצועים חיים של הטלפון ומריץ בדיקות חומרה מובנות.",
+   "link": "https://github.com/Hamraj37/DevPulse",
+   "channel": "TechTab",
+   "video": "https://www.youtube.com/watch?v=JHppy4er2BI&t=56s",
+   "date": "2026-11-10",
+   "cat_en": "Tools",
+   "cat_he": "כלים",
+   "price": "github"
+  },
+  {
+   "id": "techtab-searcho",
+   "name": "Searcho",
+   "en": "Replaces your home screen with one search bar for apps, contacts, messages and files, and works fully offline.",
+   "he": "מחליף את מסך הבית בשורת חיפוש אחת לאפליקציות, אנשי קשר, הודעות וקבצים, ופועל בלי אינטרנט.",
+   "link": "https://play.google.com/store/apps/details?id=com.searcho.minimal.search.launcher",
+   "channel": "TechTab",
+   "video": "https://www.youtube.com/watch?v=JHppy4er2BI&t=279s",
+   "date": "2026-11-10",
+   "cat_en": "Customization",
+   "cat_he": "התאמה אישית",
+   "price": "paid"
+  },
+  {
+   "id": "techtab-lyricglow",
+   "name": "LyricGlow",
+   "en": "Shows word-by-word synced lyrics of the song playing on your lock screen and Always-On Display.",
+   "he": "מציג על מסך הנעילה ועל התצוגה הקבועה את מילות השיר המתנגן, מילה אחרי מילה.",
+   "link": "https://play.google.com/store/apps/details?id=com.exodus.lyricglow",
+   "channel": "TechTab",
+   "video": "https://www.youtube.com/watch?v=JHppy4er2BI&t=377s",
+   "date": "2026-11-10",
+   "cat_en": "Music",
+   "cat_he": "מוזיקה",
+   "price": ""
+  },
+  {
+   "id": "matt-robb-c2pa-verify",
+   "name": "C2PA Verify",
+   "en": "Reads a photo's Content Credentials to show who made it and whether AI created or edited it.",
+   "he": "קורא את אישורי התוכן של תמונה ומראה מי יצר אותה והאם נוצרה או נערכה בבינה מלאכותית.",
+   "link": "https://play.google.com/store/apps/details?id=com.darkrockstudios.apps.c2paverify",
+   "channel": "Matt Robb",
+   "video": "https://www.youtube.com/watch?v=YN68gVFFGhg&t=89s",
+   "date": "2026-10-20",
+   "cat_en": "Photos & Camera",
+   "cat_he": "צילום ותמונות",
+   "price": "oss"
+  },
+  {
+   "id": "matt-robb-sunny-side",
+   "name": "Sunny Side",
+   "en": "Shows the current UV index and forecast, with a home-screen widget and no ads.",
+   "he": "מציג את מדד הקרינה האולטרה-סגולה והתחזית, עם ווידג'ט למסך הבית וללא פרסומות.",
+   "link": "https://play.google.com/store/apps/details?id=com.tobianoapps.sunnyside",
+   "channel": "Matt Robb",
+   "video": "https://www.youtube.com/watch?v=YN68gVFFGhg&t=135s",
+   "date": "2026-10-20",
+   "cat_en": "Tools",
+   "cat_he": "כלים",
+   "price": "iap"
+  },
+  {
+   "id": "techtab-flowbytes",
+   "name": "FlowBytes",
+   "en": "Tracks internet speed and data use, and can cut off internet for apps that go over their limit.",
+   "he": "עוקב אחרי מהירות האינטרנט וצריכת הנתונים, ויכול לחסום אינטרנט לאפליקציות שחרגו ממגבלה.",
+   "link": "https://github.com/drrayy001/FlowBytes",
+   "channel": "TechTab",
+   "video": "https://www.youtube.com/watch?v=H73IzULZfjo&t=239s",
+   "date": "2026-10-06",
+   "cat_en": "Tools",
+   "cat_he": "כלים",
+   "price": "github"
   }
  ]
 }
