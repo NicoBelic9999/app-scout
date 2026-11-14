@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:20",
+ "updated": "2026-11-14T12:30",
  "channels": [
   "HowToMen",
   "Sam Beckman",
@@ -319,19 +319,6 @@
    "cat_en": "Tools",
    "cat_he": "כלים",
    "price": "github"
-  },
-  {
-   "id": "techtab-searcho",
-   "name": "Searcho",
-   "en": "Replaces your home screen with one search bar for apps, contacts, messages and files, and works fully offline.",
-   "he": "מחליף את מסך הבית בשורת חיפוש אחת לאפליקציות, אנשי קשר, הודעות וקבצים, ופועל בלי אינטרנט.",
-   "link": "https://play.google.com/store/apps/details?id=com.searcho.minimal.search.launcher",
-   "channel": "TechTab",
-   "video": "https://www.youtube.com/watch?v=JHppy4er2BI&t=279s",
-   "date": "2026-11-10",
-   "cat_en": "Customization",
-   "cat_he": "התאמה אישית",
-   "price": "paid"
   },
   {
    "id": "techtab-lyricglow",
